@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-st.header("한유수")
+st.header("한유수0526")
 
 with st.spinner("전체 작업 진행 중..."):
     progress = st.progress(0)
